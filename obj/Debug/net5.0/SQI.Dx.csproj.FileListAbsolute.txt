@@ -1,0 +1,16 @@
+C:\Users\Charmi\Downloads\SQI.Dx\bin\Debug\net5.0\SQI.Dx.exe
+C:\Users\Charmi\Downloads\SQI.Dx\bin\Debug\net5.0\SQI.Dx.deps.json
+C:\Users\Charmi\Downloads\SQI.Dx\bin\Debug\net5.0\SQI.Dx.runtimeconfig.json
+C:\Users\Charmi\Downloads\SQI.Dx\bin\Debug\net5.0\SQI.Dx.runtimeconfig.dev.json
+C:\Users\Charmi\Downloads\SQI.Dx\bin\Debug\net5.0\SQI.Dx.dll
+C:\Users\Charmi\Downloads\SQI.Dx\bin\Debug\net5.0\ref\SQI.Dx.dll
+C:\Users\Charmi\Downloads\SQI.Dx\bin\Debug\net5.0\SQI.Dx.pdb
+C:\Users\Charmi\Downloads\SQI.Dx\obj\Debug\net5.0\SQI.Dx.csproj.AssemblyReference.cache
+C:\Users\Charmi\Downloads\SQI.Dx\obj\Debug\net5.0\SQI.Dx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charmi\Downloads\SQI.Dx\obj\Debug\net5.0\SQI.Dx.AssemblyInfoInputs.cache
+C:\Users\Charmi\Downloads\SQI.Dx\obj\Debug\net5.0\SQI.Dx.AssemblyInfo.cs
+C:\Users\Charmi\Downloads\SQI.Dx\obj\Debug\net5.0\SQI.Dx.csproj.CoreCompileInputs.cache
+C:\Users\Charmi\Downloads\SQI.Dx\obj\Debug\net5.0\SQI.Dx.dll
+C:\Users\Charmi\Downloads\SQI.Dx\obj\Debug\net5.0\ref\SQI.Dx.dll
+C:\Users\Charmi\Downloads\SQI.Dx\obj\Debug\net5.0\SQI.Dx.pdb
+C:\Users\Charmi\Downloads\SQI.Dx\obj\Debug\net5.0\SQI.Dx.genruntimeconfig.cache
